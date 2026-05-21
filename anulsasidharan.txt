@@ -1,0 +1,207 @@
+Contact
+106 Joycedale St, Markham, ON,
+L3S3J2
++14164533028 (Mobile)
+anulsasidharan@gmail.com
+www.linkedin.com/in/
+anulsasidharan (LinkedIn)
+anulsasidharan.github.io/ (Portfolio)
+Top Skills
+Agentic AI Development
+Machine Learning Algorithms
+Model Context Protocol (MCP)
+Certifications
+Learning Docker
+Microsoft Certified: Azure Data
+Fundamentals
+Git Essential Training: The Basics
+Microsoft Certified: Azure Data
+Fundamentals
+Cloudera Certified Administrator for
+Apache Hadoop (CCAH)
+Anu L Sasidharan
+Software Engineer
+Greater Toronto Area, Canada
+Summary
+Senior Data Engineer | GenAI Engineer | AI Solutions Architect14+
+years architecting scalable data infrastructure and AI/ML solutions
+across cloud platforms (AWS, Azure, GCP). I bridge traditional data
+engineering with cutting-edge generative AI to build productionready intelligent systems.Technical Expertise:Infrastructure &amp;
+CloudHadoop, Spark, Kafka | AWS, Azure, GCP | Terraform,
+Docker, Kubernetes | PostgreSQL, Redis, Pinecone, FAISS,
+ChromaDBGenAI &amp; LLMsLangChain, LangGraph, CrewAI,
+AutoGen | RAG pipelines | OpenAI, Anthropic Claude, Gemini,
+Hugging Face | Prompt engineering, fine-tuning (LoRA/QLoRA)
+| Vector embeddingsAI/ML EngineeringFastAPI, Celery, async
+architectures | AWS SageMaker, ECS Fargate | MLOps pipelines
+| Diffusion modelsRecent Work:Deployed VidShield AI on AWS
+—enterprise video intelligence platform with LangGraph multiagent workflows, OpenAI GPT-4o integration, Terraform IaC
+(ECS, RDS Multi-AZ, CloudFront). Built FastAPI backend,
+Next.js frontend, automated CI/CD.Value Proposition:I translate
+business requirements into scalable, production-grade GenAI
+solutions. Deep expertise in both infrastructure foundations
+and modern AI frameworks enables me to architect end-to-end
+intelligent systems.Currently Seeking:Full-time GenAI Engineer,
+AI Engineer, or Platform/DevOps Engineer roles in product-based
+companies.Toronto, ON | Remote across Canada
+Experience
+Engagesphere Technology Private Limited
+AI Product Engineer
+December 2025 - Present (6 months)
+- Designed and deployed production GenAI applications using LangChain,
+LangGraph, GPT-4o, and Claude for content moderation, MLOps, and
+marketing automation
+Page 1 of 4
+- Architected enterprise RAG pipelines with vector databases (Pinecone,
+Chroma), hybrid search, and RAGAS evaluation frameworks to reduce LLM
+hallucinations
+- Built multi-agent orchestration systems for autonomous document
+processing, content analysis, and policy compliance workflows using
+LangGraph
+- Deployed cloud infrastructure on AWS (ECS Fargate, RDS, S3, ElastiCache)
+and GCP using Terraform, Docker, and GitHub Actions CI/CD
+- Developed FastAPI microservices with Redis, Celery, PostgreSQL for
+scalable AI inference and asynchronous task processing
+- Implemented MLOps features including pipeline builders, cost optimization
+engines, evaluation dashboards, and HITL review systems
+Tech Mahindra
+Tech Specialist – AI, Big Data & Cloud Modernization
+December 2022 - November 2025 (3 years)
+Ontario, Canada
+Led enterprise Big Data modernization and - cloud transformation initiatives for
+banking platforms across on-prem and GCP environments.
+Dataproc &
+• Led for batch, streaming, and - workloads.
+• Developed Terraform-based IaC for automated provisioning and cloud
+standardization.
+• Built Airflow DAGs for workflow orchestration and ML pipeline scheduling.
+• Supported / integration using and Dataproc.
+• Implemented IAM-based security and secure service authentication.
+• Contributed to scalable / platform enablement initiatives.
+• Led end-to-end migration of EDL to EDLR across DEV/UAT/PROD/DR.
+• Automated monitoring, DR, backup, and admin workflows using Python,
+REST APIs, BDR, and distcp.
+• Built and optimized Hive, PySpark, and Kafka pipelines supporting analytics
+and ML workloads.
+• Tuned Spark jobs for scalability, performance, and resource optimization.
+• Performed capacity planning and ensured SLA compliance for enterprise
+workloads.
+Page 2 of 4
+Technologies
+GCP, Dataproc, Vertex AI, Terraform, Airflow, PySpark, Kafka, Hive, Hadoop,
+CDP7, Python, ML Pipelines, GenAI
+Tavant
+Associate Technical Architect (Booking.com - via Contract)
+September 2021 - September 2022 (1 year 1 month)
+Bangalore Urban, Karnataka, India
+• Monitored and given support for - , supporting critical production workloads.
+• Implemented and to optimize job scheduling and cluster performance.
+• Conducted in-depth to improve system throughput and reduce latency for
+ML model training pipelines.
+• Supported () , ensuring RPO/RTO compliance and seamless data
+replication.
+• Collaborated with engineering teams to troubleshoot critical issues and
+enhance system resilience across , , , , and other Hadoop ecosystem tools.
+Allianz Technology
+Senior Analyst Application Operations (Hadoop Engineer)
+April 2016 - September 2021 (5 years 6 months)
+Trivandrum
+• Managed multiple secure across TEST, DEV, ANALYTICS, and PROD
+environments with 99.9% uptime.
+• Enabled secure Kerberized interfaces (Hue, Hive), .
+• Built and maintained for inter-cluster data migration and backup.
+• Created to monitor job performance, detect anomalies, and automate
+cluster health checks.
+• Administered /-, HDFS quotas, ACLs, and of resource pools.
+AON SERVICES INDIA PRIVATE LIMITED
+IND IT Software Engineer II
+May 2015 - April 2016 (1 year)
+Chennai Area, India
+• Deployed and managed / , supporting enterprise-grade workloads in
+production and analytics environments.
+• Led , data backup automation, and cross-data-center replication using .
+• Developed with static and dynamic resource pools for fair job scheduling.
+Page 3 of 4
+• Enabled - , SSL-based communication, and coordinated with global teams
+for 24/7 support.
+KREARA SOLUTIONS PVT. LTD.
+Senior Big Data Engineer
+June 2014 - March 2015 (10 months)
+Thiruvananthapuram, Kerala, India
+• Automated routine activities using , reducing manual intervention and
+improving operational efficiency.
+• Developed for cluster health checks before and after patching,
+enhancing patch validation processes.
+• Designed and implemented a - for ' , significantly improving query
+response times from , enhancing the customer experience and search
+relevance.
+Mirox Cyber Security & Technology Pvt Ltd
+Big Data Engineer
+April 2012 - May 2014 (2 years 2 months)
+Technopark,Trivandrum
+• Designed and deployed Hadoop clusters from scratch, ensuring robust
+configuration, high availability, and secure integration into existing
+infrastructure.
+• Developed S to automate routine cluster maintenance tasks such as service
+checks, log rotation, backup scheduling, and user management.
+• Actively contributed to the operational stability and scalability of the platform
+by collaborating with infrastructure and security teams.
+Education
+Kerala University
+Bachelor of Technology (B.Tech.), Telicommunication · (2005 - 2009)
+
+
+https://github.com/anulsasidharan?tab=repositories
+
+
+Anu L Sasidharan
+AI Product Engineer
+  anulsasidharan@gmail.com    +1 416-453-3028    GitHub    LinkedIn    YouTube
+PROFESSIONAL SUMMARY
+AI Product Engineer and Technology Architect with over 13 years of experience in big data and cloud engineering, specializing in designing and securing enterprise-scale multi-cloud architectures across Azure, AWS, and GCP. Demonstrated success in delivering production-ready AI and data platforms by leveraging generative AI, LangChain-based LLM integration, and vector databases including FAISS and Pinecone. Expert in Infrastructure as Code using Terraform and CI/CD automation via Azure DevOps and GitHub Actions, achieving 40% reduction in manual intervention through automation. Skilled in governance and compliance implementation with IAM, RBAC, and Azure Policy frameworks aligned to NIST standards. Experienced in building high-availability, AI-driven data ecosystems using Databricks, Kubernetes (AKS/GKE/EKS), and RAG pipelines for advanced retrieval and reasoning, ensuring 99% system uptime and enhanced data pipeline efficiency.
+SKILLS
+•	Generative AI • Large Language Models (LLMs) • Agentic AI • Prompt Engineering • Model Fine-tuning & Optimization
+•	Retrieval-Augmented Generation (RAG) • SFTTrainer • PEFT • LoRA • Model Deployment • Model Evaluation & Benchmarking
+EXPERIENCE
+Engagesphere Technology Private Limited | 12/2025 - Present
+AI Product Engineer
+•	Designed and deployed production-grade GenAI applications leveraging LangChain, LangGraph, OpenAI GPT-4o, and Anthropic Claude models for content moderation, MLOps automation, and marketing intelligence use cases.
+•	Architected end-to-end RAG (Retrieval-Augmented Generation) pipelines with vector databases (Pinecone, Chroma), embedding optimization, hybrid search strategies, and RAGAS evaluation frameworks to reduce hallucinations and improve response accuracy.
+•	Engineered MLOps platform features including visual pipeline builders, real-time cost estimation engines, multicloud model routing, evaluation dashboards, and human-in-the-loop (HITL) review workflows.
+•	Implemented prompt engineering best practices, LLM guardrails, output validation frameworks, and policy-aware similarity search to ensure production-ready AI system reliability.
+Tech Mahindra | 12/2022 - 11/2025
+Technology Specialist
+•	Supported Scotiabank's AI/ML platform during the migration from EDL to EDLR and the upgrade of GCP Dataproc environments. Built Python automation to streamline cluster provisioning, configuration checks, workload analysis, and monitoring—improving reliability for data and ML pipelines.
+•	Directed the end-to-end modernization of enterprise Big Data/AI infrastructure by migrating on-premises EDL environments to the EDLR platform using the latest Cloudera distribution, while upgrading GCP Dataproc clusters to boost scalability, reliability, and ML pipeline throughput.
+•	Orchestrated multi-cloud connectivity and governance using Terraform-driven Infrastructure-as-Code to align with Zero Trust and NIST controls.
+•	Developed and automated high-availability data ecosystems by streamlining cluster provisioning, enhancing performance tuning, and integrating AI/ML workloads across GCP and Cloudera CDP7 environments.
+•	Partnered with cross-functional teams in data science, engineering, and infrastructure to deliver production-ready big data solutions, implementing governance with RBAC and IAM.
+Tavant Technologies | 09/2021 - 09/2022
+Associate Technical Architect
+•	Built Python automation to administer, monitor, and optimize large-scale, multi-tenant Hadoop clusters that supported enterprise data, analytics, and ML workloads.
+•	Used Python-driven load analysis, resource usage modeling, and automated configuration checks to improve system reliability, balance workloads, and optimize resource pools for data science teams.
+•	Developed Python scripts and workflow tooling to support disaster recovery processes, validate RPO/RTO objectives, and ensure uninterrupted access to ML training data and production pipelines.
+PROJECTS
+VidShield AI - AI Video Intelligence & Content Moderation Platform | 03/2026 - 04/2026
+•	Designed and implemented a multimodal AI pipeline integrating computer vision, speech-to-text, and NLP models to analyze video content for toxicity, violence, and policy violations.
+•	Enabled context-aware analysis using multimodal fusion, combining visual, textual, and audio signals to improve detection accuracy and reduce false positives in content classification.
+•	Developed scalable backend services and APIs for video ingestion, preprocessing (frame extraction, audio transcription), and model inference, improving processing efficiency and throughput.
+•	Developed a LangGraph multi-agent workflow (Orchestrator → Content Analyzer → Safety Checker → Scene Classifier → Report Generator) using LangChain 0.2+ with GPT-4o and Whisper for vision, transcription, and OCR-based content analysis.
+Unified-RAG-Studio | 04/2026 - 05/2026
+•	Architected and developed a production-grade Generative AI & RAG platform using FastAPI, LangGraph, React, PostgreSQL, Redis, and vector databases, enabling end-to-end AI pipeline design, evaluation, and deployment.
+•	Implemented advanced multi-agent orchestration workflows for document ingestion, chunking optimization, embedding evaluation, retrieval optimization, guardrails, and autonomous deployment pipelines.
+•	Built scalable cloud-native MLOps infrastructure with Docker, Kubernetes, CI/CD pipelines, observability dashboards, evaluation APIs, SSE-based progress tracking, and automated deployment workflows.
+•	Engineered configurable RAG pipeline generation framework supporting multi-provider LLMs, embedding models, vector stores, routing strategies, evaluation metrics, and human-in-the-loop (HITL) review capabilities.
+EDUCATION
+Bachelor of Technology
+Kerala University | 08/2005 - 05/2009
+ACHIEVEMENTS & CERTIFICATIONS
+•	ITIL Foundation Certified
+
+
+
+
+https://www.youtube.com/channel/UCiOUEGXJ7fGxnBo2WWmJmOA
+https://www.linkedin.com/in/anulsasidharan/
+https://github.com/anulsasidharan?tab=repositories
+
